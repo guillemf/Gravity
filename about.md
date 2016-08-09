@@ -8,7 +8,7 @@ permalink: /about/
 
 Un podcast que pretende ayudarte a pasar de ser un ideísta a ser un emprendedor.
 
-Definición según _DFA (*Diego Freniche Academy*)_
+Definición según __DFA (*Diego Freniche Academy*)__
 
 
 >  Dícese de aquel que considera ser la única persona capaz de tener ideas de negocio. Especialmente si se dirige a un informático que pretende trabaje para él gratis. Aunque el Ideista tiene muchas ideas, usualmente no puede transmitirlas al estar aquejado de NDAitis
