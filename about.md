@@ -17,4 +17,4 @@ Pasar de eso a tener un proyecto, es un proceso que requiere básicamente de una
 
 ## Contacto
 
-Puedes ponerte en contacto conmigo por correo, en hola@ideistas.com o mediante twitter a @ideistas.
+Puedes ponerte en contacto conmigo por correo, en [hola@ideistas.com][mailto:hola@ideistas.com] o mediante twitter a [@ideistas][http://www.twitter.com/ideistas].
