@@ -10,7 +10,7 @@ title: Ideístas
 email: hello@guillem.mobi
 description: El podcast
 baseurl: "/ideistas" # the subpath of your site, e.g. /blog
-url: "http://guillemf.github.io" # the base hostname & protocol for your site
+url: "http://guillemf.github.io/ideistas" # the base hostname & protocol for your site
 twitter_username: guillemf
 github_username:  guillemf
 
