@@ -6,7 +6,7 @@ categories: presentación
 ---
 Bienvenido a Ideístas y gracias por tomarte un tiempo en visitar el blog.
 
-{% include image name="Set_ready_go.png" caption="Preparados, listos, ya!" %}
+{% include image.html name="Set_ready_go.png" caption="Preparados, listos, ya!" %}
 
 En este primer capítulo podrás encontrar una introducción al podcast en el que te explico qué es lo que vas a encontrar y qué puedes esperar de él.
 
