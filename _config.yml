@@ -18,4 +18,4 @@ github_username:  guillemf
 markdown: kramdown
 
 # Assets
-images_path: "/ideistas/images"
+images_path: "/ideistas/assets/images"
