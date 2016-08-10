@@ -16,3 +16,6 @@ github_username:  guillemf
 
 # Build settings
 markdown: kramdown
+
+# Assets
+images_path: "/images"
