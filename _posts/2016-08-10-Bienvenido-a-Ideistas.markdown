@@ -14,7 +14,7 @@ Si quieres encontrar el podcast puedes buscarlo en [iTunes](http://www.itunes.co
 
 Para contactar con las personas a las que agradezco su influencia y ayuda puedes usar los siguientes links:
 
-[Diego Freniche](http://www.freniche.com)
-[Victor Correal](http://www.victorcorreal.com)
-[Emilcar](http://www.emilcar.fm)
-[Albert Mata](http://www.albertmata.com)
+[Diego Freniche](http://www.freniche.com)<br>
+[Victor Correal](http://www.victorcorreal.com)<br>
+[Emilcar](http://www.emilcar.fm)<br>
+[Albert Mata](http://www.albertmata.com)<br>
