@@ -11,7 +11,7 @@ email: hello@guillem.mobi
 description: El podcast
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://ideistas.com" # the base hostname & protocol for your site
-twitter_username: guillemf
+twitter_username: guillemfg
 github_username:  guillemf
 
 # Build settings
